@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++14  -fopenmp -O3 -DNDEBUG   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/sun/livo_ws/build/direct_lidar_odometry/gtest/lib ../lib/libgtest.so 

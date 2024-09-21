@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/sun/livo_ws/devel/.private/direct_lidar_odometry/lib/libnanoflann.a  CMakeFiles/nanoflann.dir/src/nano_gicp/nanoflann.cc.o
+/usr/bin/ranlib /home/sun/livo_ws/devel/.private/direct_lidar_odometry/lib/libnanoflann.a

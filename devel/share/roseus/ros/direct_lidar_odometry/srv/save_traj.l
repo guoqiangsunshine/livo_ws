@@ -1,0 +1,1 @@
+/home/sun/livo_ws/devel/.private/direct_lidar_odometry/share/roseus/ros/direct_lidar_odometry/srv/save_traj.l

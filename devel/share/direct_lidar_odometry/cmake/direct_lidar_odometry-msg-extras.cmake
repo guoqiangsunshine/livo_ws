@@ -1,0 +1,1 @@
+/home/sun/livo_ws/devel/.private/direct_lidar_odometry/share/direct_lidar_odometry/cmake/direct_lidar_odometry-msg-extras.cmake
